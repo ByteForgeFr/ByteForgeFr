@@ -1,20 +1,15 @@
 <div align="center">
   
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&multiline=true&width=435&lines=ByteForgeFr+%7C+Tech+Marketplace" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=ByteForgeFr+%7C+Tech+Marketplace" alt="Typing SVG" /></a>
 
   <br/>
 
   <p>
-    <a href="https://byteforgefr.github.io"><img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=0ea5e9&border=0ea5e9" alt="Portfolio" /></a>
-    <a href="mailto:"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=0ea5e9&border=0ea5e9" alt="Email" /></a>
+    <a target="_blank" href="https://byteforgefr.github.io"><img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=0ea5e9&border=0ea5e9" alt="Portfolio" /></a>
+    <a target="_blank" href="mailto:"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=0ea5e9&border=0ea5e9" alt="Email" /></a>
   </p>
 
 </div>
-
-
-
-> **Prestations techniques, développement sur-mesure et optimisation hardware.**  
-> Un espace pro et accessible pour les particuliers, créateurs de contenus et entrepreneurs.
 
 ---
 
