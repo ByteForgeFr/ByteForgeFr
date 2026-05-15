@@ -1,6 +1,5 @@
 
 <div align="center">
-<img width="242" height="64" alt="byteforce (copy 3)" src="https://github.com/user-attachments/assets/703cbb4a-6b07-4cce-98f1-409e6b932720" />
 
   <p>
     
