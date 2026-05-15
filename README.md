@@ -1,6 +1,6 @@
-<img width="512" height="144" alt="plaque" src="https://github.com/user-attachments/assets/82563112-a735-45f4-b2f4-fc651f435e2d" />
 
 <div align="center">
+<img width="242" height="64" alt="byteforce (copy 3)" src="https://github.com/user-attachments/assets/703cbb4a-6b07-4cce-98f1-409e6b932720" />
 
   <p>
     
