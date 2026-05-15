@@ -28,17 +28,18 @@ Cet espace GitHub regroupe les outils open-source, les templates et les projets 
 
 ---
 
-### 🤝 Rejoindre la communauté
-
-Tu as besoin d'un dépannage, d'un devis, ou tu veux juste échanger avec des passionnés de tech ? 
-
-➡️ [**Rejoindre notre serveur Discord**](TON_LIEN_D_INVITATION_ICI)
-
----
-
 ### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ByteForgeFr&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ByteForgeFr&theme=tokyonight" />
 </div>
+
+---
+
+### 🤝 Rejoindre la communauté
+
+Tu as besoin d'un dépannage, d'un devis, ou tu veux juste échanger avec des passionnés de tech ? 
+
+➡️ [**Rejoindre notre serveur Discord**](TON_LIEN_D_INVITATION_ICI)
+
