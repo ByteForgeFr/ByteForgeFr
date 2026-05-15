@@ -1,3 +1,4 @@
+<img width="512" height="144" alt="plaque" src="https://github.com/user-attachments/assets/82563112-a735-45f4-b2f4-fc651f435e2d" />
 <div align="center">
 
   <p>
