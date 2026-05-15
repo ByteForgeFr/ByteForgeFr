@@ -1,8 +1,4 @@
 <div align="center">
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=ByteForgeFr+%7C+Tech+Marketplace" alt="Typing SVG" /></a>
-
-  <br/>
 
   <p>
     
@@ -13,14 +9,6 @@
   </p>
 
 </div>
-
----
-
-### 🤝 Rejoindre la communauté
-
-Tu as besoin d'un dépannage, d'un devis, ou tu veux juste échanger avec des passionnés de tech ? 
-
-➡️ [**Rejoindre notre serveur Discord**](TON_LIEN_D_INVITATION_ICI)
 
 ---
 
