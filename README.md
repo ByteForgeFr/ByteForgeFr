@@ -7,9 +7,18 @@
   <p>
     <a target="_blank" href="https://byteforgefr.github.io"><img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=0ea5e9&border=0ea5e9" alt="Portfolio" /></a>
     <a target="_blank" href="mailto:"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=0ea5e9&border=0ea5e9" alt="Email" /></a>
+    
   </p>
 
 </div>
+
+---
+
+### 🤝 Rejoindre la communauté
+
+Tu as besoin d'un dépannage, d'un devis, ou tu veux juste échanger avec des passionnés de tech ? 
+
+➡️ [**Rejoindre notre serveur Discord**](TON_LIEN_D_INVITATION_ICI)
 
 ---
 
@@ -34,12 +43,3 @@ Cet espace GitHub regroupe les outils open-source, les templates et les projets 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ByteForgeFr&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ByteForgeFr&theme=tokyonight" />
 </div>
-
----
-
-### 🤝 Rejoindre la communauté
-
-Tu as besoin d'un dépannage, d'un devis, ou tu veux juste échanger avec des passionnés de tech ? 
-
-➡️ [**Rejoindre notre serveur Discord**](TON_LIEN_D_INVITATION_ICI)
-
