@@ -5,7 +5,7 @@
     
 <a target="_blank" href="https://discord.gg/9uEPdAbfMh"><img src="https://img.shields.io/badge/Discord-0B1120?style=for-the-badge&logo=discord&logoColor=white" alt="Discord ByteForgeFr" /></a>
 <a target="_blank" href="https://byteforgefr.github.io"><img src="https://img.shields.io/badge/Site-0B1120?style=for-the-badge&logo=vercel&logoColor=0ea5e9&border=0ea5e9" alt="Portfolio" /></a>
-<a target="_blank" href="mailto:"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=0ea5e9&border=0ea5e9" alt="Email" /></a>
+<a target="_blank" href="mailto:byteforgefr@proton.me"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=0ea5e9&border=0ea5e9" alt="Email" /></a>
     
   </p>
 
